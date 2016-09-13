@@ -1,0 +1,8 @@
+E:\Github\abc\TDD\RomanToIntConversion\RomanToIntConversionDev\bin\Debug\RomanToIntConversionDev.dll
+E:\Github\abc\TDD\RomanToIntConversion\RomanToIntConversionDev\bin\Debug\RomanToIntConversionDev.pdb
+E:\Github\abc\TDD\RomanToIntConversion\RomanToIntConversionDev\obj\Debug\RomanToIntConversionDev.dll
+E:\Github\abc\TDD\RomanToIntConversion\RomanToIntConversionDev\obj\Debug\RomanToIntConversionDev.pdb
+E:\Github\RomanToInt\RomanToInt\RomanToIntConversion\RomanToIntConversionDev\bin\Debug\RomanToIntConversionDev.dll
+E:\Github\RomanToInt\RomanToInt\RomanToIntConversion\RomanToIntConversionDev\bin\Debug\RomanToIntConversionDev.pdb
+E:\Github\RomanToInt\RomanToInt\RomanToIntConversion\RomanToIntConversionDev\obj\Debug\RomanToIntConversionDev.dll
+E:\Github\RomanToInt\RomanToInt\RomanToIntConversion\RomanToIntConversionDev\obj\Debug\RomanToIntConversionDev.pdb
